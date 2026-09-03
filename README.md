@@ -55,7 +55,7 @@ MADBarbershop/
 ├── img/
 ├── mail.php
 └── phpmailer/
-
+```
 ## Author
 
 Built by Alexandr Suhih.
