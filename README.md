@@ -40,10 +40,11 @@ The JavaScript implementation includes:
 
 ## Live Website
 
-Add live GitHub Pages URL here.
+[View Live Website](https://suhihalex.github.io/MADBarbershop/index.html)
 
 ## Project Structure
 
+```text
 MADBarbershop/
 ├── index.html
 ├── services.html
