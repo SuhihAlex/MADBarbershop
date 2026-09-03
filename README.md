@@ -61,5 +61,5 @@ Built by Alexandr Suhih.
 
 Frontend development is my primary professional focus.
 
-GitHub ·
-LinkedIn
+[GitHub](https://github.com/SuhihAlex) ·
+[LinkedIn](https://www.linkedin.com/in/alexandr-suhih-1a4821289/)
